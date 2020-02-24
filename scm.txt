@@ -1,0 +1,19 @@
+basic operations are:
+.create
+.status
+.checkout
+.diff
+.commit
+.revert
+.update
+.log
+.add
+.tag
+.edit
+.branch
+.delete
+.rename
+.resolve
+.merge
+.move
+.lock
